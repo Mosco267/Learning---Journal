@@ -3,7 +3,7 @@
 **Platform:** Youtube & TryHackMe - Module:Intoduction to Cyber Security
 
 ## What I Learned
-- Cybersecurity is the practice of preventing network,programs,computer system and its component from attact from hackers.
+- Cybersecurity is the practice of protecting computer network,programs,computer system and its component from unauthorize access.
 - Hackers attacks both individual and company. some of the individual attacks are man in the middle attack, malware attack, phishing attack. and some company attack include distributed denial of service(DDoS),DNS hijacking, and also SQL injection(SQLi)
 
 - There are three type of hackers: Black hat hacker, Grey hat hacker, and White hat hacker(Ethical hacker).
