@@ -8,4 +8,5 @@
 
 - There are three type of hackers: Black hat hacker, Grey hat hacker, and White hat hacker(Ethical hacker).
 - hacking is the exploitation of vulnerable computer network to obtaing infomation and credentials.
+- "TryHackMe Pre-Security Completed"
   
