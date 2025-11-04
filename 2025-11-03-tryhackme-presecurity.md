@@ -9,13 +9,16 @@
 - There are three type of hackers: Black hat hacker, Grey hat hacker, and White hat hacker(Ethical hacker).
 - hacking is the exploitation of vulnerable computer network to obtaing infomation and credentials.
 - "TryHackMe Pre-Security Completed"
-- i setup start machine and downloaded openvpn and also learn to link my tryhackme account to kali linux
+- i setup start machine and downloaded openvpn and also learn to link my tryhackme account to kali linux.
   
-# Day 2 - Basic Computer & Network teams
-**Date:** 2025-11-04
-**Platform:** Cloudflare & TryHackMe - Module:Network Fundamentals
+ # Day 2 - Basic Computer & Network Terms
+ **Date:** 2025-11-04
+ **Platform:** Cloudflare & TryHackMe - Module:Network Fundamentals
 
-## What I Learned Day 2
-IP Address(Internet Protocol) are unique identifier assign to a computer or domain that connects to the internet
-
+ ## What I Learned (DAY 2)
+ - okay
+ 
+ 
+  
+  
  
