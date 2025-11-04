@@ -18,7 +18,7 @@
  ## What I Learned (DAY 2)
  - IP Address(internet Protocol) are unique identifier assign to a device or domain that connents t the internet
  - There are two type of IP Address which are: IPV4(Internet protocol version 4) and IPV6(Internet protocol version 6)
- - Example of IPV4 are IP Address with 4 number section divided by dot(.) and number ranges from 0 to 255 example are this 10.139.210.098
+ - Example of IPV4 are IP Address divided into 4 octets and number ranges from 0 to 255 example are this 10.139.210.098
  - Example of IPV6 Address are long sequence of number and alphabet usually 4 letters divided by dot(.) example are 1a23.r4w5.55h7.90gf.5hy8.k0u9
  - DNS(Domain Name Server) is what convert human-friendly domain names to IP address that computer uses
  - HTTP(Hypertext transfer protocol) is the protocol for transferring web pages. HTTPS adds encryption for security
