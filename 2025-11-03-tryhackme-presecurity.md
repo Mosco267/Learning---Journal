@@ -16,6 +16,6 @@
 **Platform:** Cloudflare & TryHackMe - Module:Network Fundamentals
 
 ## What I Learned Day 2
--IP Address(Internet Protocol) are unique identifier assign to a computer or domain that connects to the internet
+IP Address(Internet Protocol) are unique identifier assign to a computer or domain that connects to the internet
 
  
