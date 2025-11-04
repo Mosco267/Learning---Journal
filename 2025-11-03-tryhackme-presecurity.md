@@ -11,3 +11,11 @@
 - "TryHackMe Pre-Security Completed"
 - i setup start machine and downloaded openvpn and also learn to link my tryhackme account to kali linux
   
+# Day 2 - Basic Computer & Network teams
+**Date:** 2025-11-04
+**Platform:** Cloudflare & TryHackMe - Module:Network Fundamentals
+
+## What I Learned Day 2
+-IP Address(Internet Protocol) are unique identifier assign to a computer or domain that connects to the internet
+
+ 
