@@ -44,7 +44,16 @@
  - &&(this command allow you to run two command. the first command first, before the second command.if the first command is unable to run, the second command would not work.)
  - \>(this command help you to redirect a command into somewhere)
  - \>>(this command works like the > command but it appends the output rather than replacing it, meaning nothing is over written)
- 
-  
+ - man(manual)
+ - su(to switch user)
+ - -a(all)
+ - touch(to create a file)
+ - mkdir-make directory(to creat a folder)
+ - rm-remove(to delete a file)
+ - rm -R(to delete a folder)
+ - mv-move(to move a file/folder and also rename them)
+ - cp-copy(to copy file)
+ - file(to know the kind of file)
+   
   
  
