@@ -30,7 +30,7 @@
  **Platform:** YouTube & TryHackMe
 
  ## What I Learned (DAY 3)
- - I leart some basic linux commands which are:
+ - I learnt some basic linux commands which are:
  - cd - change directory
  - pwd - print working directory(shows part to any folder/file)
  - ls - listing(list all folders)
