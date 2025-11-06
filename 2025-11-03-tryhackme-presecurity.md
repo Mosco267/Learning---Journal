@@ -42,8 +42,8 @@
  - ip addr(to show ip address)
  - &(this command allow you to run operative in the background of your termial)
  - &&(this command allow you to run two command. the first command first, before the second command.if the first command is unable to run, the second command would not work.)
- - />(this command help you to redirect a command into somewhere)
- - />>(this command works like the > command but it appends the output rather than replacing it, meaning nothing is over written)
+ - \>(this command help you to redirect a command into somewhere)
+ - \>>(this command works like the > command but it appends the output rather than replacing it, meaning nothing is over written)
  
   
   
