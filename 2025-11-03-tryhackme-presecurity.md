@@ -54,6 +54,23 @@
  - mv-move(to move a file/folder and also rename them)
  - cp-copy(to copy file)
  - file(to know the kind of file)
+
+ # Day 4 - Learning Networking and How The Internet Works
+ **Date:** 2025-11-11
+ **Platform:** YouTube & Chatgpt
+
+ ## What I Learned (DAY 4)
+ - TCP/IP(Trasmission control protocol)/(Internet protocol)
+ - ARP(Address resolution protocol)
+ - DNS(Domain name system)
+ - ISP(Internet service provider)
+ - DHCP(Dynamic host configuration protocol)
+ - NAT(Network address translation)
+ - LAN(Local area network) example your home router
+ - WAN(wide area network) example your ISP
+ - How the internet work when i insert google.com on my browser and when i am connected to an home router that 4 other devices are connected to and now NAT works with TCP.
+   
+   
    
   
  
