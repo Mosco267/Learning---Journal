@@ -76,6 +76,7 @@
    2. registered ports: this ports are registered ports and they ranges from 1,024 - 49,151. example include: applications, game, etc.
    3. dynamic or private ports: this ports are temporary port in computer for outgoing connections. this ports rangers from 49,152 to 65,535.
   some common well known ports are listed below:
+
   |port number|protocol|service/use|
   |-----------|--------|-----------|
   |.20/21|.FTP|.file transfer protocol|
