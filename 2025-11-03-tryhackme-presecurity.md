@@ -77,18 +77,18 @@
    3. dynamic or private ports: this ports are temporary port in computer for outgoing connections. this ports rangers from 49,152 to 65,535.
 - some common well known ports are listed below:
 
-  |.port number|.protocol|.service/use|
+  |port number|protocol|service/use|
   |-----------|--------|-----------|
-  |.20/21|.FTP|.file transfer protocol|
-  |.22|.SSH|.secure shell(remote logins)|
-  |.23|.telnet|.remote terminal(insecure)|
-  |.25|.SMTP|.sending emails|
-  |.53|.DNS|.domain name system(resolving dormain names to ip)|
-  |.80|.HTTP|.website(insecure)|
-  |.110|.POP3|.receiving emails|
-  |.143|.IMAP|.receiving emails(modern)|
-  |.443|.HTTPs|.website(secure)|
-  |.3389|.RDP|.remote desktop protocol(windows remote access)|
+  |20/21|FTP|file transfer protocol|
+  |22|SSH|secure shell(remote logins)|
+  |23|telnet|remote terminal(insecure)|
+  |25|SMTP|sending emails|
+  |53|DNS|domain name system(resolving dormain names to ip)|
+  |80|HTTP|website(insecure)|
+  |110|POP3|receiving emails|
+  |143|IMAP|.receiving emails(modern)|
+  |443|HTTPs|website(secure)|
+  |3389|RDP|remote desktop protocol(windows remote access)|
     
    
    
