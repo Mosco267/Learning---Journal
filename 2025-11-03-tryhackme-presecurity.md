@@ -69,6 +69,27 @@
  - LAN(Local area network) example your home router
  - WAN(wide area network) example your ISP
  - How the internet work when i insert google.com on my browser and when i am connected to an home router that 4 other devices are connected to and now NAT works with TCP.
+ - Ports are like door or channels in the computer that where network data goes in and out
+ - port numbers are numbericical identifier in a computer that tell the computer what process or program to handle a network data
+ - port numbers are from 0 to 65,535 and are divided into three which are listed below:
+   1. well-known ports: this are ports for system service and the ranges from 0 - 1,023. example include; SSH, DNS, HTTP, etc.
+   2. registered ports: this ports are registered ports and they ranges from 1,024 - 49,151. example include: applications, game, etc.
+   3. dynamic or private ports: this ports are temporary port in computer for outgoing connections. this ports rangers from 49,152 to 65,535.
+ - some common well known ports are listed below
+  | port number | protocol | service/use |
+  |--------------|----------|--------------|
+  | 20/21 | FTP | file transfer protocol |
+  | 22 | SSH | secure shell(remote logins) |
+  | 23 | telnet | remote terminal(insecure) |
+  | 25 | SMTH | sending emails |
+  | 53 | DNS | domain name system(resolving dormain names to ip)
+  | 80 | HTTP | website(insecure) |
+  | 110 | POP3 | receiving emails |
+  | 143 | IMAP | receiving emails(modern) |
+  | 443 | HTTPs | website(secure) |
+  | 3389 | RDP | remote desktop protocol(windows remote access) |
+    
+   
    
    
    
