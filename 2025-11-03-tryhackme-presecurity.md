@@ -86,7 +86,7 @@
   |53|DNS|domain name system(resolving dormain names to ip)|
   |80|HTTP|website(insecure)|
   |110|POP3|receiving emails|
-  |143|IMAP|.receiving emails(modern)|
+  |143|IMAP|receiving emails(modern)|
   |443|HTTPs|website(secure)|
   |3389|RDP|remote desktop protocol(windows remote access)|
     
